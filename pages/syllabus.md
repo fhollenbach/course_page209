@@ -172,11 +172,13 @@ grade
 
 The grading scale (in %) used in this class for all written
 assignments, exams, and the overall class grade will be the following:
-	- A= 89.5
-	- B= 79.5–<89.5
-	- C= 69.5–<79.5
-	- D= 59.5–<69.5
-	- F=<59.6
+
+- A= 89.5
+- B= 79.5–<89.5
+- C= 69.5–<79.5
+- D= 59.5–<69.5
+- F=<59.6
+
 
 Given that this course is an official writing course, you __must pass
 the writing__ part of the class to receive graduation credit. As noted
