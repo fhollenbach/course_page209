@@ -5,8 +5,11 @@ description: Introduction to Political Research Methods
 ---
 
 __Instructor:__ Professor Florian M. Hollenbach
+
 __Email:__ fhollenbach@tamu.edu; __Web:__[fhollenbach.org](fhollenbach.org)
+
 __Office:__ 2061 Allen Building; __Phone:__ 979-845-5021
+
 __Office Hours:__ Monday, Wednesday, & Friday: 10:40am - 11:45am or by appointment
 
 
@@ -111,14 +114,14 @@ questions. Sepcifically, you will be graded on:
 
 - almost daily home work assignments/review exercises: 20% of class
 grade
-		- home work assignments and review exercises will be graded on
+	- home work assignments and review exercises will be graded on
           pass/fail, i.e. your grade will be the percentage of
           exercises you passed. You are allowed to miss two exercises
           unexcused, i.e. if there are 20 total assignments your grade
-          will be the number of passed assignments divided by 18 (but
-          maximum 100%).
+          will be the number of passed assignments divided by 18 (but maximum 100%).
+
 - class attendance/participation: 15% of class grade
-		-  Attendance will be marked at the beginning of each
+	-  Attendance will be marked at the beginning of each
            class. You are allowed to have two free absences. After two
            absences, I will deduct one point from the 10 possible
            attendance points for each absence. Excused absences do not
@@ -132,14 +135,14 @@ grade
            late to class, I reserve the right to mark late arrivals as
            absences. Should you arrive to class late, be sure to let
            me know after class so that I can mark you as present.
-		- I expect all students to participate in class discussion, ask
+	- I expect all students to participate in class discussion, ask
            questions, listen to their fellow students, and be
            attentive. If you repeatedly fail to pay attention
            (e.g. fall asleep or play on your cell phone), I may
            deduct points from your participation/attendance grade.
 
 - Three writing assignment: 30% of class grade (10% each)
-		- The writing assignments in this class will be short memos
+	- The writing assignments in this class will be short memos
           (each 700 words) and are supposed to prepare you for real
           world work assignments. They will involve work with data in
           R. The writing assigments will be structured
@@ -149,19 +152,19 @@ grade
           comments and will then be graded on the final version.
 		  Your comments to your fellow students will be graded
           pass/fail as a home work exercise.
-		  __ The final version of the written assignments are to be
+		  __The final version of the written assignments are to be
           submitted via Turnitin on eCampus prior to class on the day
           they are due.__
 		  
 - Exam 1: 15% of class grade
-		- The first exam will cover the first half of the semester and
+	- The first exam will cover the first half of the semester and
           will be worth 15% of your class grade. The exams focus on
           all of the material covered up to the exam, including the
           readings, lectures, and exercises. The assigned exercises
           should serve as excellent preparation for the exams
 		  
 - Final Exam (cumulative): 20% of class grade
-		  - The final exam will cover the material from the whole
+	- The final exam will cover the material from the whole
           class and will be worth 20% of your class grade. The exams focus on
           all of the material covered up to the exam, including the
           readings, lectures, and exercises. The assigned exercises
@@ -182,16 +185,27 @@ course with a passing grade but have not passed the W or C portion of
 the course, you will not get the graduation credit for that W or C
 course."
 
-#### WRITING HELP:
-The University Writing Center (UWC), located in 214 Evans Library and 205 West Campus Library, offers one-on-one consultations to writers. UWC consultations are highly recommended but are not required. Help is available with brainstorming, researching, drafting, documenting, revising, and more; no concern is too large or too small.  UWC consultants will also help you improve your proofreading and editing skills. If you visit the UWC, take a copy of your writing assignment, a hard copy of your draft or any notes you may have, as well as any material you need help with. To find out more about UWC services or to schedule an appointment, call 458-1455, visit the web page at writingcenter.tamu.edu, or stop by in person.
+### WRITING HELP:
+The University Writing Center (UWC), located in 214 Evans Library and
+205 West Campus Library, offers one-on-one consultations to
+writers. UWC consultations are highly recommended but are not
+required. Help is available with brainstorming, researching, drafting,
+documenting, revising, and more; no concern is too large or too small.
+UWC consultants will also help you improve your proofreading and
+editing skills. If you visit the UWC, take a copy of your writing
+assignment, a hard copy of your draft or any notes you may have, as
+well as any material you need help with. To find out more about UWC
+services or to schedule an appointment, call 458-1455, visit the web
+page at writingcenter.tamu.edu, or stop by in person.
 
 
 ###ACADEMIC HONESTY:
 All students should follow the highest standards of academic
 integrity. Cheating or plagiarism will not be tolerated in any way. If
 you are unsure what entails plagiarism, come talk to me. For more
-info, see: http://student-rules.tamu.edu/aggiecode &
-http://aggiehonor.tamu.edu. “An Aggie does not lie, cheat or steal, or
+info, see: [http://student-rules.tamu.edu/aggiecode &
+http://aggiehonor.tamu.edu](http://student-rules.tamu.edu/aggiecode &
+http://aggiehonor.tamu.edu). “An Aggie does not lie, cheat or steal, or
 tolerate those who do.”
 
 Regarding group work: Unless explicitly otherwise specified, your
@@ -221,16 +235,14 @@ You should have the book within the first week of class.
 
 For part of this class we will be working on the computer with
 statistical software. We will use the statistical programming language
-__R__. R is available for download [here:]
-(https://cran.revolutionanalytics.com). I would recommend you download
+__R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download
 R-Studio, which is a software (a set of integrated tools) that makes
 the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and
 R-Studio are free.
 
 You will also need a pocket calculator. You can buy a cheap one for t
 Walmart for about $3. Graphing calculators will not be allowed on the
-exams, so if you have any questions, please ask. [Here]
-(https://www.amazon.com/Casio-HS8VA-Standard-Function-Calculator/dp/B001GXM68Y/)
+exams, so if you have any questions, please ask. [Here](https://www.amazon.com/Casio-HS8VA-Standard-Function-Calculator/dp/B001GXM68Y/)
 is an example from Amazon. You should have your calculator by the
 Friday September 1st.
 
@@ -252,7 +264,7 @@ distraction not only to the students using them but also fellow
 class mates. [A recent study has found that not having laptops in class
 can have a similar effect as hiring a SAT tutor](https://www.washingtonpost.com/news/wonk/wp/2016/05/16/why-smart-kids-shouldnt-use-laptops-in-class/?utm_term=.5dd2e4949441) 
 
-![Laptops as distraction](assets/images/laptop.jpg)
+![Laptops as distraction](/assets/images/laptop.jpg)
 
 I may make exceptions to this rule, but only if you have good reasons
 for why you need to use a computer. If so please contact me within the
@@ -281,7 +293,7 @@ either prior or after the absence, but not later than two working days
 after the absence. Legitimate circumstances include religious
 holidays, illness (verified by a doctor), serious family emergencies
 and participation in group activities sponsored by the University,
-etc. See http://student-rules.tamu.edu/rule07 for additional
+etc. See [http://student-rules.tamu.edu/rule07](http://student-rules.tamu.edu/rule07) for additional
 information. Please note that I do not accept Xeroxed copies of
 medical excuses from students.
 
@@ -319,7 +331,7 @@ their disabilities. If you believe you have a disability requiring an
 accommodation, please contact Disability Services, currently located
 in the Disability Services building at the Student Services at White
 Creek complex on west campus or call 979-845-1637. For additional
-information, visit http://disability.tamu.edu.
+information, visit [http://disability.tamu.edu](http://disability.tamu.edu).
 
 Reasonable accommodations will be made for all students with
 disabilities, but it is the student’s responsibility to inform the
@@ -331,7 +343,7 @@ accommodations for disabilities must be arranged well in advance.
 The Department of Political Science supports the Texas A&M University
 commitment to diversity, and welcomes individuals from any racial,
 ethnic, religious, age, gender, sexual orientation, class, disability,
-and nationality. (See http://diversity.tamu.edu/). In the spirit of
+and nationality. (See [http://diversity.tamu.edu/](http://diversity.tamu.edu/). In the spirit of
 this vital commitment, in this course each voice in the classroom has
 something of value to contribute to all discussions.
 
