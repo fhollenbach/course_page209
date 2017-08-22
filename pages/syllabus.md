@@ -13,7 +13,6 @@ __Office:__ 2061 Allen Building; __Phone:__ 979-845-5021
 
 __Office Hours:__ Monday, Wednesday, & Friday: 10:40am - 11:45am or by appointment
 
-
 ###Teaching Assistant:
 __John Niehaus__
 
