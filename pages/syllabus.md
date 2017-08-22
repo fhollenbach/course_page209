@@ -264,7 +264,7 @@ distraction not only to the students using them but also fellow
 class mates. [A recent study has found that not having laptops in class
 can have a similar effect as hiring a SAT tutor](https://www.washingtonpost.com/news/wonk/wp/2016/05/16/why-smart-kids-shouldnt-use-laptops-in-class/?utm_term=.5dd2e4949441) 
 
-![Laptops as distraction](/assets/images/laptop.jpg)
+![Laptops as distraction](https://pbs.twimg.com/media/C9oYA4GUAAI0RKf.jpg:large)
 
 I may make exceptions to this rule, but only if you have good reasons
 for why you need to use a computer. If so please contact me within the
