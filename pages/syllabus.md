@@ -282,7 +282,7 @@ refrain from using them during class time. If you are repeatedly on
 your phone, I may deduct points from your participation/attendance
 grade.
 
-###EXAM ABSENCES & LATE POLICY:
+### EXAM ABSENCES & LATE POLICY:
 Make-up exams will be permitted only in the case of university-excused
 absences. To be eligible for a make-up exam, you will have to present
 original written documentation of legitimate circumstances that
