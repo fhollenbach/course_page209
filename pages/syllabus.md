@@ -4,16 +4,16 @@ title: Class Syllabus for Polisci 209 -905 and 209-906
 description: Introduction to Political Research Methods
 ---
 
-###Instructor:
+### Instructor:
 __Professor Florian M. Hollenbach__
 
-__Email:__ fhollenbach@tamu.edu; __Web:__[fhollenbach.org](fhollenbach.org)
+__Email:__ fhollenbach@tamu.edu; __Web:__ [fhollenbach.org](fhollenbach.org)
 
 __Office:__ 2061 Allen Building; __Phone:__ 979-845-5021
 
 __Office Hours:__ Monday, Wednesday, & Friday: 10:40am - 11:45am or by appointment
 
-###Teaching Assistant:
+### Teaching Assistant:
 __John Niehaus__
 
 __Email:__ niehausjm@tamu.edu
@@ -64,17 +64,18 @@ At the end of the semester, after completing this course, students are expected 
 - Understand the concept of causality and experimental designs
 
 - Be able to do simple programming in R, such as:
-  - plot and interpret histograms, scatterplots,
+  - plot and interpret histograms, scatterplots, boxplots
   - run simple statistical models in R
-
+  - simple mapping in R
+  
 - Explain and understand simple descriptive, univariate, and bivariate statistical concepts, such as:
   – mean,
-  – (co)variance,
+  – (co)variance, correlation
   – measurement
   – Central Limit Theorem
   – bivariate linear regression
   – multivariate linear regression
-  - hypothesis tests.
+  - hypothesis tests
 
 
 ### COURSE STRUCTURE & REQUIREMENTS:
@@ -108,27 +109,27 @@ scheduled.
 
 ###  GRADING & RESPONSIBILITIES:
 
-Your grade will be based on two exams (40 % combined) at the middle
-and end of the semester, class attendance, participation, and excersises (30% combined), and
-two written assignments (30% combined). All assignments are due before
+Your grade will be based on two exams (35 % combined) at the middle
+and end of the semester, class attendance, participation, and excersises (35% combined), and
+three written assignments (30% combined). All assignments are due before
 class on the day they are listed on the syllabus.
 
 I expect you to do the assigned readings for each class before the
 lecture, participate in class discussions, and come prepared with
-questions. Sepcifically, you will be graded on:
+questions. Specifically, you will be graded on:
 
-- almost daily home work assignments/review exercises: 20% of class
+- home work assignments/review exercises: 20% of class
 grade
 	- home work assignments and review exercises will be graded on
           pass/fail, i.e. your grade will be the percentage of
           exercises you passed. You are allowed to miss two exercises
           unexcused, i.e. if there are 20 total assignments your grade
-          will be the number of passed assignments divided by 18 (but maximum 100%).
+          will be the number of passed assignments divided by 18 (maximum 100%).
 
 - class attendance/participation: 15% of class grade
 	-  Attendance will be marked at the beginning of each
            class. You are allowed to have two free absences. After two
-           absences, I will deduct one point from the 10 possible
+           absences, I will deduct one point from the 15 possible
            attendance points for each absence. Excused absences do not
            deduct from your free absences. I will decide what counts
            as excused on a case-by-case basis, but in general absences
@@ -206,7 +207,7 @@ services or to schedule an appointment, call 458-1455, visit the web
 page at writingcenter.tamu.edu, or stop by in person.
 
 
-###ACADEMIC HONESTY:
+### ACADEMIC HONESTY:
 All students should follow the highest standards of academic
 integrity. Cheating or plagiarism will not be tolerated in any way. If
 you are unsure what entails plagiarism, come talk to me. For more
@@ -234,7 +235,7 @@ book. If you do decide to get a different version, it will be your
 responsibility to make sure you are reading the correct parts and
 doing the correct exercises.
 
-Required book: Freedman, David, Robert Pisani, and Roger
+__Required book__: Freedman, David, Robert Pisani, and Roger
 Purves. 2007. Statistics. 4th Edition. W. W. Norton and Company. New
 York. ISBN: 0393929728.
 
@@ -245,12 +246,13 @@ statistical software. We will use the statistical programming language
 __R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download
 R-Studio, which is a software (a set of integrated tools) that makes
 the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and
-R-Studio are free.
+R-Studio are free. I would encourage you to install R-studio and play
+around with it for a bit.
 
-You will also need a pocket calculator. You can buy a cheap one for t
+You will also need a pocket calculator. You can buy a cheap one for at
 Walmart for about $3. Graphing calculators will not be allowed on the
 exams, so if you have any questions, please ask. [Here](https://www.amazon.com/Casio-HS8VA-Standard-Function-Calculator/dp/B001GXM68Y/)
-is an example from Amazon. You should have your calculator by the
+is an example from Amazon for a calculator you could use. You should have your calculator by the
 Friday September 1st.
 
 ### CLASSROOM BEHAVIOR, PARTICIPATION, & ELECTRONIC DEVICES:
@@ -314,7 +316,7 @@ Students that want to appeal a grade received on an exam or assignment must subm
 ### COMMUNICATION:
 The best place to ask questions is in the class room. If your question
 is not related to class material or relevant to other students, we can
-discuss it after class. I encourage you to visit my officece hours to
+discuss it after class. I encourage you to visit my office hours to
 discuss any difficulties with the readings or homeworks. Again,
 however, you should at least attempt to solve the problem on your own
 first.
@@ -361,7 +363,7 @@ about other people, cultures, groups, or viewpoints.
 
 ### Changes to Syllabus
 I reserve the right to update/modify/clarify the syllabus with advance
-notification. Below is a list of changes made so far:
+notification.
 
 
 
@@ -372,12 +374,11 @@ notification. Below is a list of changes made so far:
 ### Week 1
 
 
-#### Monday, August 28th
+#### Monday, August 28th:  What are we doing in this class?
 - Read Syllabus
-- Think of Introduction
+- Think of introduction of yourself
 - Buy book
 - Buy calculator
-- What is R? What are we doing in this class?
 
 #### Wednesday, August 30st: Questions & Models 
 - Review notes on Questions & Models prior to class
@@ -409,6 +410,7 @@ notification. Below is a list of changes made so far:
 #### Monday, September 11th: Histograms in R + Average and SD
 - Read notes on Histogram
 - Read ch. 4 of FPP.
+- Complete Assignment 3
 
 
 
@@ -425,6 +427,7 @@ notification. Below is a list of changes made so far:
 #### Friday, September 15th: Starting Writing Assignment 1
 - __Meeting in Lab today__
 - Bring laptop if you have one
+- Complete Assignment 4
 
 
 
@@ -433,7 +436,6 @@ notification. Below is a list of changes made so far:
 #### Monday, September 18th: Average and SD in R + Normal Approximation
 - Review Notes on Average and SD in R
 - Read ch. 5 of FPP
-- Complete Assignment 3
 
 
 
@@ -447,6 +449,7 @@ notification. Below is a list of changes made so far:
 #### Friday, September 22th: Measurement + Measurement Exercise
 - Read ch. 6 of FPP.
 - __Send Writing Assignment 1 Comments to peer review partner__
+- Complete Assignment 5
 
 
 
@@ -457,7 +460,7 @@ notification. Below is a list of changes made so far:
 
 #### Monday, September 25th: Scatterplots and Correlation
 - Read chs. 7-8 of FPP
-- Complete Assignment 4
+- Complete Assignment 6
 
 
 #### Wednesday, September 27th: Scatterplots and Correlation in R
@@ -468,7 +471,6 @@ notification. Below is a list of changes made so far:
 
 #### Friday, September 29th: Regression
 - Read chs. 10-11 of FPP
-- Complete Assignment 6
 - __Writing Assignment due today__
 
 
@@ -478,6 +480,7 @@ notification. Below is a list of changes made so far:
 
 #### Monday, October 2th: Regression in R
 - Read ch. 12 of FPP
+- Complete Assignment 7
 
 
 
@@ -510,7 +513,7 @@ notification. Below is a list of changes made so far:
 
 
 #### Wednesday, October 11th: Multiple Regression (and in R)
-- Complete Assignment 7
+- Complete Assignment 8
  
 
 
@@ -532,6 +535,7 @@ notification. Below is a list of changes made so far:
 
 #### Monday, October 16th: Probability, Part 1
 -  Read ch. 13 of FPP
+- Complete Assignment 9
 
 
 
@@ -545,7 +549,6 @@ notification. Below is a list of changes made so far:
 
 #### Wednesday, October 18th: Probability, Part 2
 -  Read ch. 14 of FPP
-- Complete Assignment 8 
 - __Send writing assigment 2 to peer review partner__
 
 
@@ -553,7 +556,7 @@ notification. Below is a list of changes made so far:
 
 #### Friday, October 20th: Law of Averages
 - Read ch. 16 of FPP. 
-- Complete Assignment 9
+- Complete Assignment 10
 - __Send Writing Assignment 2 Comments to peer review partner__
 
 
@@ -563,19 +566,19 @@ notification. Below is a list of changes made so far:
 
 #### Monday, October 23rd: Expected Value and Standard Error
 - Read ch. 17 of FPP. 
-
+- Complete Assignment 11
 
 
 
 
 #### Wednesday, October 25th: Normal Approximation for Probability Histograms
 -  Read ch. 18 of FPP
-- Complete Assignment 10
 - __Writing Assignment 2 due today__
 
 
 #### Friday, October 27th: Sample Surveys I
 -  Read ch. 19 of FPP. 
+- Complete Assignment 12
 
 
 
@@ -583,6 +586,7 @@ notification. Below is a list of changes made so far:
 
 #### Monday, October 30: Sample Surveys II
 - Read ch. 20 of FPP.
+- Complete Assignment 13
 
 
 
@@ -593,6 +597,7 @@ notification. Below is a list of changes made so far:
 
 #### Friday, November 3rd: Surveys in the Real World
 - Read ch. 22 of FPP
+- Complete Assignment 14 
 
 
 
@@ -600,6 +605,7 @@ notification. Below is a list of changes made so far:
 
 #### Monday, November 6th: The Accuracy of Averages
 - Read ch. 23 of FPP
+- Complete Assignment 15 
 
 
 
@@ -614,6 +620,7 @@ notification. Below is a list of changes made so far:
 #### Friday, November 10th: Working on Writing Assingment 3
 - __Meet in lab__
 - Bring laptop
+- Complete Assignment 16 
 
 
 ### Week 12
@@ -633,6 +640,7 @@ notification. Below is a list of changes made so far:
 #### Monday, November 20th: Chi-squared tests
 - Read ch. 28 of FPP
 - __Send Writing Assignment 2 Comments to peer review partner__
+- Complete Assignment 17 
 
 
 #### Wednesday, November 22nd
@@ -651,6 +659,7 @@ Turkey Break!
 
 #### Friday, December 1st: Reviewing Regression
 - Read notes on Reviewing Regression
+- Complete Assignment 18 
 
 
 
