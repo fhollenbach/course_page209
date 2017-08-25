@@ -559,7 +559,7 @@ notification. Below is a list of changes made so far:
 
 
 
-#### Week 9
+### Week 9
 
 #### Monday, October 23rd: Expected Value and Standard Error
 - Read ch. 17 of FPP. 
@@ -615,7 +615,8 @@ notification. Below is a list of changes made so far:
 - __Meet in lab__
 - Bring laptop
 
-#### Week 12
+
+### Week 12
 
 #### Monday, November 13th: Maps in R
 - Review notes on Maps in R
@@ -627,7 +628,7 @@ notification. Below is a list of changes made so far:
 
 #### Friday, November 17th: Class Canceled, Prof at conference
 
-#### Week 13
+### Week 13
 
 #### Monday, November 20th: Chi-squared tests
 - Read ch. 28 of FPP
@@ -638,7 +639,7 @@ notification. Below is a list of changes made so far:
 Turkey Break!
 
 
-#### Week 14
+### Week 14
 
 #### Monday, November 27th: A closer look at significance
 - Read ch. 29 of FFP
@@ -654,7 +655,7 @@ Turkey Break!
 
 
 
-#### Week 15
+### Week 15
 
 #### Monday, December 4th: Prediction using Regression
 - Read notes on Prediction
