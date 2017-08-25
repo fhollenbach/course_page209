@@ -368,92 +368,124 @@ notification. Below is a list of changes made so far:
 
 ### Class Schedule
 
-#### Week 1
+
+### Week 1
+
 
 #### Monday, August 28th
-Syllabus, Introduction
+- Read Syllabus
+- Think of Introduction
+- Buy book
+- Buy calculator
+- What is R? What are we doing in this class?
 
-
-#### Wednesday, August 30st
-
-
-
-#### Friday, September 1st
-
-
-
-#### Week 2
-
-#### Monday, September 4ht
-
-
-#### Wednesday, September 6th
-
-
-#### Friday, September 8th
+#### Wednesday, August 30st: Questions & Models 
+- Review notes on Questions & Models prior to class
 
 
 
-#### Week 3
-
-#### Monday, September 11th
-
-
-#### Wednesday, September 13th
+#### Friday, September 1st: Getting started in R
+- Review notes on starting in R
 
 
-#### Friday, September 15th
+### Week 2
 
 
-#### Week 4
+#### Monday, September 4ht: Model Building Exercise + Causal Inference
+- Read chp. 1-2 of FPP
+- Complete Assignment 1
 
-#### Monday, September 18th
-
-
-#### Wednesday, September 20th
-
-
-#### Friday, September 22th
+#### Wednesday, September 6th: Loading data into R & Histograms
+- Review notes on loading data in R
+- Read ch. 3 of FPP
 
 
-#### Week 5
-
-#### Monday, September 25th
-
-
-#### Wednesday, September 27th
+#### Friday, September 8th: Histograms in R + Average and SD
+- Read notes on Histogram
+- Read ch. 4 of FPP.
+- Complete Assignment 2
 
 
-#### Friday, September 29th
+### Week 3
+
+#### Monday, September 11th: Average and SD in R + Normal Approximation
+- Review Notes on Average and SD in R
+- Read ch. 5 of FPP
+- Complete Assignment 3
+
+#### Wednesday, September 13th: Measurement + Measurement Exercise
+- Read ch. 6 of FPP.
+
+
+#### Friday, September 15th: Scatterplots and Correlation
+- Read chs. 7-8 of FPP
+- Complete Assignment 4
 
 
 
-#### Week 6
+### Week 4
 
-#### Monday, October 2th
-
-
-#### Wednesday, October 4th
-
-
-#### Friday, October 6th
+#### Monday, September 18th: Scatterplots and Correlation in R
+- Review Notes on Scatterplots and Correlation in R
+- Complete Assignment 5
+- Play this game [(web)](http://www.rossmanchance.com/applets/GuessCorrelation.html) and track your performance.
 
 
-#### Week 7
 
-#### Monday, October 9th
-
-
-#### Wednesday, October 11th
+#### Wednesday, September 20th: FASB Panel
 
 
-#### Friday, October 13th
+#### Friday, September 22th: Regression
+- Read chs. 10-11 of FPP
+- Complete Assignment 6
 
 
-#### Week 8
+
+
+### Week 5
+
+#### Monday, September 25th: Review for Exam
+
+
+#### Wednesday, September 27th: Exam 1
+
+
+#### Friday, September 29th: Regression in R
+- Read ch. 12 of FPP
+
+
+
+### Week 6
+
+#### Monday, October 2th: Multiple Regression (and in R)
+- Complete Assignment 7
+
+#### Wednesday, October 4th: Probability, Part 1
+-  Read ch. 13 of FPP
+
+
+#### Friday, October 6th: Probability, Part 2
+-  Read ch. 13 of FPP
+- Complete Assignment 8 
+
+### Week 7
+
+#### Monday, October 9th: Law of Averages
+- Read ch. 16 of FPP. 
+- Complete Assignment 9
+
+#### Wednesday, October 11th: Expected Value and Standard Error
+- Read ch. 17 of FPP. 
+
+
+#### Friday, October 13th: Normal Approximation for Probability Histograms
+-  Read ch. 18 of FPP
+- Complete Assignment 10
+
+### Week 8
 
 #### Monday, October 16th
-
+- Sample Surveys
 
 #### Wednesday, October 18th
 
