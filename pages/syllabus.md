@@ -109,8 +109,8 @@ scheduled.
 
 ###  GRADING & RESPONSIBILITIES:
 
-Your grade will be based on two exams (35 % combined) at the middle
-and end of the semester, class attendance, participation, and excersises (35% combined), and
+Your grade will be based on two exams (40 % combined) at the middle
+and end of the semester, class attendance, participation, and excersises (30% combined), and
 three written assignments (30% combined). All assignments are due before
 class on the day they are listed on the syllabus.
 
@@ -126,10 +126,10 @@ grade
           unexcused, i.e. if there are 20 total assignments your grade
           will be the number of passed assignments divided by 18 (maximum 100%).
 
-- class attendance/participation: 15% of class grade
+- class attendance/participation: 10% of class grade
 	-  Attendance will be marked at the beginning of each
            class. You are allowed to have two free absences. After two
-           absences, I will deduct one point from the 15 possible
+           absences, I will deduct one point from the 10 possible
            attendance points for each absence. Excused absences do not
            deduct from your free absences. I will decide what counts
            as excused on a case-by-case basis, but in general absences
@@ -169,9 +169,9 @@ grade
           readings, lectures, and exercises. The assigned exercises
           should serve as excellent preparation for the exams
 		  
-- Final Exam (cumulative): 20% of class grade
+- Final Exam (cumulative): 25% of class grade
 	- The final exam will cover the material from the whole
-          class and will be worth 20% of your class grade. The exams focus on
+          class and will be worth 25% of your class grade. The exams focus on
           all of the material covered up to the exam, including the
           readings, lectures, and exercises. The assigned exercises
           should serve as excellent preparation for the exams. 
