@@ -56,9 +56,7 @@ will gain an understanding of basic methods of data analysis and the
 underlying concepts of probability. We will also cover some
 introductory programming, so that you will be able to write code for
 basic statistical functions and plots in
-[R](https://www.r-project.org/about.html). Test to see if we can post
-a [pdf](../img/images/Rplot.pdf)
-
+[R](https://www.r-project.org/about.html). 
 
 ### LEARNING OUTCOMES:
 At the end of the semester, after completing this course, students are expected to:
@@ -382,19 +380,20 @@ notification.
 - Buy book
 - Buy calculator
 
-#### Wednesday, August 30st: Questions & Models 
-- Review notes on Questions & Models prior to class
+#### Wednesday, August 30st: Questions 
+- Review [notes on Questions](../img/images/notes-02-questions.pdf)
 
 
 
-#### Friday, September 1st: Getting started in R
-- Review notes on starting in R
+#### Friday, September 1st: Models
+- Review [notes on Models](../img/images/notes-02-models.pdf)
 
 
 ### Week 2
 
 
-#### Monday, September 4ht: Model Building Exercise 
+#### Monday, September 4ht: Getting started in R
+- Review [notes on starting in R](../img/images/notes-04-computing.pdf)
 - Complete Assignment 1
 
 #### Wednesday, September 6th: Causal Inference
