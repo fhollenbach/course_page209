@@ -478,7 +478,7 @@ notification.
 
 ### Week 6
 
-#### Monday, October 2th: Regression in R
+#### Monday, October 2th: Regression
 - Read ch. 12 of FPP
 - Complete Assignment 7
 
@@ -487,32 +487,26 @@ notification.
 
 
 
-#### Wednesday, October 4th:  Review for Exam
+#### Wednesday, October 4th: Regression in R
 
 
 
-#### Friday, October 6th:  Exam 1
 
-
+#### Friday, October 6th: Review for Exam
+ 
 
 
 
 ### Week 7
 
-#### Monday, October 9th: More Fun in R
-- Review notes More Fun in R
+#### Monday, October 9th:  Exam 1 
 
 
 
 
 
 
-
-
-
-
-
-#### Wednesday, October 11th: Multiple Regression (and in R)
+#### Wednesday, October 11th: Multiple Regression
 - Complete Assignment 8
  
 
@@ -522,9 +516,7 @@ notification.
 
 
 
-#### Friday, October 13th: Getting Started on Writing Assignment 2
-- __Meet in lab__
-- Bring laptop
+#### Friday, October 13th:  Multiple Regression (in R) 
 
 
 
@@ -533,8 +525,9 @@ notification.
 
 ### Week 8
 
-#### Monday, October 16th: Probability, Part 1
--  Read ch. 13 of FPP
+#### Monday, October 16th:  Getting Started on Writing Assignment 2
+- __Meet in lab__
+- Bring laptop
 - Complete Assignment 9
 
 
@@ -547,71 +540,90 @@ notification.
 
 
 
-#### Wednesday, October 18th: Probability, Part 2
+#### Wednesday, October 18th: Probability, Part 1
+-  Read ch. 13 of FPP
+
+
+
+
+
+
+
+#### Friday, October 20th: 
+Probability, Part 2
 -  Read ch. 14 of FPP
 - __Send writing assigment 2 to peer review partner__
 
 
 
 
-#### Friday, October 20th: Law of Averages
+
+
+### Week 9
+
+#### Monday, October 23rd: 
+Law of Averages
 - Read ch. 16 of FPP. 
-- Complete Assignment 10
 - __Send Writing Assignment 2 Comments to peer review partner__
 
 
 
 
-### Week 9
 
-#### Monday, October 23rd: Expected Value and Standard Error
-- Read ch. 17 of FPP. 
+#### Wednesday, October 25th: Expected Value and Standard Error
+- Read ch. 17 of FPP.
+- __Writing Assignment 2 due today__
+
 - Complete Assignment 11
 
 
 
-
-#### Wednesday, October 25th: Normal Approximation for Probability Histograms
+#### Friday, October 27th: Normal Approximation for Probability Histograms
 -  Read ch. 18 of FPP
-- __Writing Assignment 2 due today__
 
 
-#### Friday, October 27th: Sample Surveys I
--  Read ch. 19 of FPP. 
-- Complete Assignment 12
+
 
 
 
 ### Week 10
 
-#### Monday, October 30: Sample Surveys II
+#### Monday, October 30: Sample Surveys I
+-  Read ch. 19 of FPP. 
+- Complete Assignment 12
+
+
+
+
+
+#### Wednesday, November 1st: Sample Surveys II
 - Read ch. 20 of FPP.
 - Complete Assignment 13
 
 
 
-#### Wednesday, November 1st: The Accuracy of Percentages
+
+#### Friday, November 3rd: The Accuracy of Percentages
 - Read ch. 21 of FPP
 
-
-
-#### Friday, November 3rd: Surveys in the Real World
-- Read ch. 22 of FPP
-- Complete Assignment 14 
 
 
 
 ### Week 11
 
-#### Monday, November 6th: The Accuracy of Averages
+#### Monday, November 6th:  Surveys in the Real World
+- Read ch. 22 of FPP
+- Complete Assignment 14 
+
+
+
+
+
+
+#### Wednesday, November 8th: The Accuracy of Averages
 - Read ch. 23 of FPP
 - Complete Assignment 15 
 
-
-
-
-#### Wednesday, November 8th: Null hypothesis and Significance test
-- Read ch. 26 of FFP
 
 
 
@@ -625,8 +637,9 @@ notification.
 
 ### Week 12
 
-#### Monday, November 13th: Maps in R
-- Review notes on Maps in R
+#### Monday, November 13th: Null hypothesis and Significance test
+- Read ch. 26 of FFP
+
 
 #### Wednesday, November 15th:  More Tests for Averages 
 - Read ch. 27 of FPP
@@ -657,7 +670,7 @@ Turkey Break!
 #### Wednesday, November 29nd: Getting Twitter data in R
 - Read notes on Twitter in R
 
-#### Friday, December 1st: Reviewing Regression
+#### Friday, December 1st: Reviewing Regression 
 - Read notes on Reviewing Regression
 - Complete Assignment 18 
 
@@ -666,9 +679,8 @@ Turkey Break!
 
 ### Week 15
 
-#### Monday, December 4th: Prediction using Regression
-- Read notes on Prediction
-
+#### Monday, December 4th: Maps in R
+- Review notes on Maps in R
 
 #### Wednesday, December 6th
 - Review for exam
