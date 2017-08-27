@@ -57,7 +57,7 @@ underlying concepts of probability. We will also cover some
 introductory programming, so that you will be able to write code for
 basic statistical functions and plots in
 [R](https://www.r-project.org/about.html). Test to see if we can post
-a [pdf](img/images/Rplot.pdf)
+a [pdf](../img/images/Rplot.pdf)
 
 
 ### LEARNING OUTCOMES:
