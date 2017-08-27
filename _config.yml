@@ -16,6 +16,9 @@ author :
   twitter : nil
   feedburner : nil
 
+theme: jekyll-theme-dinky
+
+
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://fhollenbach.github.io/course_page209
 
