@@ -56,7 +56,9 @@ will gain an understanding of basic methods of data analysis and the
 underlying concepts of probability. We will also cover some
 introductory programming, so that you will be able to write code for
 basic statistical functions and plots in
-[R](https://www.r-project.org/about.html).
+[R](https://www.r-project.org/about.html). Test to see if we can post
+a [pdf](assets/images/Rplot.pdf)
+
 
 ### LEARNING OUTCOMES:
 At the end of the semester, after completing this course, students are expected to:
